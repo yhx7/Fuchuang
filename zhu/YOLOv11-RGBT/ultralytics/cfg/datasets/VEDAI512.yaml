@@ -1,7 +1,7 @@
-# train: C:/Users/z/Desktop/datasets/VEDAI/VEDAI512/images/visible/train  
-# val:   C:/Users/z/Desktop/datasets/VEDAI/VEDAI512/images/visible/val 
-train:  C:/Users/z/Downloads/VEDAI/VEDAI_train.txt  # 16551 images
-val:  C:/Users/z/Downloads/VEDAI/VEDAI_trainval.txt # 4952 images
+train: C:/Users/z/Desktop/datasets/VEDAI/VEDAI512/images/visible/train  
+val:   C:/Users/z/Desktop/datasets/VEDAI/VEDAI512/images/visible/val 
+# train:  C:/Users/z/Downloads/VEDAI/VEDAI_train.txt  # 16551 images
+# val:  C:/Users/z/Downloads/VEDAI/VEDAI_trainval.txt # 4952 images
 
 # number of classes
 nc: 8
